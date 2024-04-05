@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="foodvision_big\test_img\demo.png" alt="Project Image">
+  <img src="demo.png" alt="Project Image">
 </div>
 <div align = "center">
 # FoodVision 🍔👁
