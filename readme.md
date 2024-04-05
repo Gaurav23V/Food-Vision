@@ -1,7 +1,10 @@
-<div align=center>
-<img src="foodvision_big\test_img\demo.png">
-FoodVision 🍔👁
+<div align="center">
+  <img src="foodvision_big\test_img\demo.png" alt="Project Image">
 </div>
+<div align = "center">
+# FoodVision 🍔👁
+</div>
+
 
 ### Colab - For Demo
 
