@@ -2,7 +2,7 @@
   <img src="demo.png" alt="Project Image">
 </div>
 <div align = "center">
-# FoodVision 🍔👁
+<h1> FoodVision 🍔👁</h1>
 </div>
 
 
