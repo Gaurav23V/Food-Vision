@@ -5,9 +5,7 @@
 <div align="center">
   <img src="demo.png" alt="Project Image">
 </div>
-<div align = "center">
-# FoodVision 🍔👁
-</div>
+
 
 
 ### Colab - For Demo
